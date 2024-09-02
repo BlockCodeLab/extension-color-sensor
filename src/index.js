@@ -7,7 +7,7 @@ export default {
   description: 'Perceive the colorful world in all its colors.',
   image: featureImage,
   icon: iconImage,
-  tags: ['blocks', 'popsicle', 'sensor', '5v', 'color'],
+  tags: ['blocks', 'popex', 'sensor', '5v', 'color'],
   popsicleRequired: true,
 
   // l10n
