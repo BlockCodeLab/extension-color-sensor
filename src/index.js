@@ -8,7 +8,7 @@ export default {
   image: featureImage,
   icon: iconImage,
   tags: ['blocks', 'popex', 'sensor', '5v', 'color'],
-  popsicleRequired: true,
+  popexRequired: true,
 
   // l10n
   translations: {
