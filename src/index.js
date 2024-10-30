@@ -2,13 +2,12 @@ import featureImage from './feature.svg';
 import iconImage from './icon.svg';
 
 export default {
-  preview: true,
+  hidden: true,
   name: 'Color Sensor',
   description: 'Perceive the colorful world in all its colors.',
   image: featureImage,
   icon: iconImage,
-  tags: ['blocks', 'popex', 'sensor', '5v', 'color'],
-  popexRequired: true,
+  tags: ['blocks', 'sensor', 'multipin'],
 
   // l10n
   translations: {
